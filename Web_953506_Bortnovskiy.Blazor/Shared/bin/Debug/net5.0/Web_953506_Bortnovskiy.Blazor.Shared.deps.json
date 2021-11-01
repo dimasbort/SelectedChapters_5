@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Web_953506_Bortnovskiy.Blazor.Shared/1.0.0": {
+        "runtime": {
+          "Web_953506_Bortnovskiy.Blazor.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Web_953506_Bortnovskiy.Blazor.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

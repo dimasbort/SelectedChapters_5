@@ -1,0 +1,11 @@
+D:\Новая папка\Web_953506_Bortnovskiy\Web_953506_Bortnovskiy.Blazor\Shared\bin\Debug\net5.0\Web_953506_Bortnovskiy.Blazor.Shared.deps.json
+D:\Новая папка\Web_953506_Bortnovskiy\Web_953506_Bortnovskiy.Blazor\Shared\bin\Debug\net5.0\Web_953506_Bortnovskiy.Blazor.Shared.dll
+D:\Новая папка\Web_953506_Bortnovskiy\Web_953506_Bortnovskiy.Blazor\Shared\bin\Debug\net5.0\ref\Web_953506_Bortnovskiy.Blazor.Shared.dll
+D:\Новая папка\Web_953506_Bortnovskiy\Web_953506_Bortnovskiy.Blazor\Shared\bin\Debug\net5.0\Web_953506_Bortnovskiy.Blazor.Shared.pdb
+D:\Новая папка\Web_953506_Bortnovskiy\Web_953506_Bortnovskiy.Blazor\Shared\obj\Debug\net5.0\Web_953506_Bortnovskiy.Blazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\Web_953506_Bortnovskiy\Web_953506_Bortnovskiy.Blazor\Shared\obj\Debug\net5.0\Web_953506_Bortnovskiy.Blazor.Shared.AssemblyInfoInputs.cache
+D:\Новая папка\Web_953506_Bortnovskiy\Web_953506_Bortnovskiy.Blazor\Shared\obj\Debug\net5.0\Web_953506_Bortnovskiy.Blazor.Shared.AssemblyInfo.cs
+D:\Новая папка\Web_953506_Bortnovskiy\Web_953506_Bortnovskiy.Blazor\Shared\obj\Debug\net5.0\Web_953506_Bortnovskiy.Blazor.Shared.csproj.CoreCompileInputs.cache
+D:\Новая папка\Web_953506_Bortnovskiy\Web_953506_Bortnovskiy.Blazor\Shared\obj\Debug\net5.0\Web_953506_Bortnovskiy.Blazor.Shared.dll
+D:\Новая папка\Web_953506_Bortnovskiy\Web_953506_Bortnovskiy.Blazor\Shared\obj\Debug\net5.0\ref\Web_953506_Bortnovskiy.Blazor.Shared.dll
+D:\Новая папка\Web_953506_Bortnovskiy\Web_953506_Bortnovskiy.Blazor\Shared\obj\Debug\net5.0\Web_953506_Bortnovskiy.Blazor.Shared.pdb
